@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Commerce/static/css/main.94b55cc3.css",
+    "main.js": "/Commerce/static/js/main.b36b4b64.js",
+    "static/js/787.4e388f46.chunk.js": "/Commerce/static/js/787.4e388f46.chunk.js",
+    "static/media/card8.png": "/Commerce/static/media/card8.b50c97b945d69cec055a.png",
+    "static/media/card5.png": "/Commerce/static/media/card5.ac8cd8277422222ecdf1.png",
+    "static/media/card3.png": "/Commerce/static/media/card3.c87b77b5f87719de1524.png",
+    "static/media/card2.png": "/Commerce/static/media/card2.3844f5efeab13352d5a9.png",
+    "static/media/card6.png": "/Commerce/static/media/card6.cb920bfa75bd93a02b24.png",
+    "static/media/card4.png": "/Commerce/static/media/card4.bf12fe096f1c8391be75.png",
+    "static/media/card7.png": "/Commerce/static/media/card7.0bdb24d28683ac23dfa9.png",
+    "static/media/card1.png": "/Commerce/static/media/card1.3fa347a8451508bebea8.png",
+    "static/media/card9.png": "/Commerce/static/media/card9.da9ddf7a032923b1dfd1.png",
+    "index.html": "/Commerce/index.html",
+    "main.94b55cc3.css.map": "/Commerce/static/css/main.94b55cc3.css.map",
+    "main.b36b4b64.js.map": "/Commerce/static/js/main.b36b4b64.js.map",
+    "787.4e388f46.chunk.js.map": "/Commerce/static/js/787.4e388f46.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94b55cc3.css",
+    "static/js/main.b36b4b64.js"
+  ]
+}
